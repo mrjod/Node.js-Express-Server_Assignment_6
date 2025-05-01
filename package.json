@@ -1,0 +1,19 @@
+{
+  "name": "node.js-express-server_assignment_6",
+  "version": "1.0.0",
+  "description": "this is Assignment 6 of the carreerEX Backend program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Osho Oluwajomiloju",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
